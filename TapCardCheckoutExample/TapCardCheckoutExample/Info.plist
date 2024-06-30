@@ -24,6 +24,7 @@
 		</dict>
 	</dict>
 	<key>ITSAppUsesNonExemptEncryption</key>
-	<false/>
+	<false/><key>NSCameraUsageDescription</key>
+<string>Card SDK needs it for scanner functionality</string>
 </dict>
 </plist>
